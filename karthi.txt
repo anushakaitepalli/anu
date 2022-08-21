@@ -1,0 +1,3 @@
+karthika 
+age 4.5
+female
